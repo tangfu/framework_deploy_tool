@@ -7,7 +7,7 @@
 3. 更新时会强制丢弃本地working copy的修改
 4. 默认每小时整点检查更新
 
-【notice】                                  
+【notice】
 1. 限定目录 : 
     build_dir : UUUU.../build/{xxxx-1,xxxx-2,xxxx-3,...}
     source_dir : UUUU.../{xxxx-1,xxxx-2,...}
