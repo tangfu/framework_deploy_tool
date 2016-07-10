@@ -13,9 +13,7 @@
 1. 限定目录 : 
     
     build_dir : UUUU.../build/{xxxx-1,xxxx-2,xxxx-3,...}
-    
     source_dir : UUUU.../{xxxx-1,xxxx-2,...}
-    
     deploy_dir : UUUU.../framework_deploy_tool
 
 2. 限定用户 :
